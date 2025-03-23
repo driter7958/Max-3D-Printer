@@ -1,4 +1,4 @@
-# Max - Voron v2.4 r2 3D Printer
+# Max - Voron v2.4 R2 3D Printer
 
 Welcome to the GitHub repository for Max, a Voron v2.4 r2 3D printer! Max is a highly customizable and reliable 3D printer designed for enthusiasts and professionals alike. This README provides an overview of Max, its features, assembly instructions, and how to get started with printing.
 
@@ -12,7 +12,7 @@ You can watch a video demonstration of Max in action by clicking the link below:
 ## Features
 
 - **High Precision**: Max is capable of printing with high precision, thanks to its rigid frame and high-quality components.
-- **Modular Design**: The Voron v2.4 r2 design features a modular approach, making it easy to customize and upgrade.
+- **Modular Design**: The Voron v2.4 R2 design features a modular approach, making it easy to customize and upgrade.
 - **CoreXY Motion System**: Max utilizes a CoreXY motion system for fast and accurate movement, resulting in high-quality prints.
 - **Integrated Electronics**: The printer features integrated electronics, including a mainboard, power supply, and display, for a clean and compact setup.
 - **Enclosed Build Chamber**: Max comes with an enclosed build chamber for improved temperature control and print quality, especially when printing with ABS and other temperature-sensitive materials.
